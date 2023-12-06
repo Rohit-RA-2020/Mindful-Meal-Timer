@@ -1,16 +1,11 @@
-# assignment
+# Healthy Meal Timer
 
-A new Flutter project.
+A new Flutter Application.
 
-## Getting Started
+## A Mindful Meal Timer
 
-This project is a starting point for a Flutter application.
+### App Images
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Image 1            |  Image 2                          | Image 3 | Image 4
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](images/2.png)  |  ![](images/3.png)| ![](images/4.png)| ![](images/1.png)
